@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cody, an <a href="https://www.linkedin.com/in/cody-martin-2b7558290/">IT Professional</a>☺</h1>
+<h1>MY <a href="https://www.linkedin.com/in/cody-martin-2b7558290/">PROJECTS</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
