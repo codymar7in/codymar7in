@@ -1,4 +1,4 @@
-<h1>MY <a href="https://www.linkedin.com/in/cody-martin-2b7558290/">PROJECTS</a></h1>
+<h1>MY <a href="https://www.linkedin.com/in/codymar7in/">PROJECTS</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -19,4 +19,4 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/cody-martin-2b7558290/
+[linkedin]: https://www.linkedin.com/in/codymar7in/
