@@ -7,9 +7,12 @@
   - [osTicket: Post-Installation Configuration](https://github.com/codymar7in/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/codymar7in/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Creating Resources Groups, Storage Accounts, and Containers](https://github.com/codymar7in/Creating-Resources-Groups-Storage-Accounts-and-Containers)
   - [VPN Setup and Usage within Azure](https://github.com/codymar7in/vpn-setup)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/codymar7in/azure-network-protocols)
   - [Active Directory Deployed in Azure](https://github.com/codymar7in/Active-Directory-Configuration-)
+  - [Create Inspect and Delete DNS A Records and CNAME](https://github.com/codymar7in/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME)
+  - [Network File Shares and Permissions](https://github.com/codymar7in/Network-File-Shares-and-Permissions)
 
 <h2>🤳Connect with me:</h2>
 
